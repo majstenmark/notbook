@@ -1,5 +1,5 @@
 # Notebook
-This repo contains Cache-Flow's notebook for ACM-competitions.
+This repo contains :rainbow: :rainbow: :rainbow: (Rainbow Unicode Characters) notebook for ACM-competitions.
 
 All the code is found in the code/ folder. 
 
